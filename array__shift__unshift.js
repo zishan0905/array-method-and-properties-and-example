@@ -4,3 +4,4 @@ console.log(b)
 //shift method remove  first element from given  array
 let m = arr.unshift(29)
 console.log(arr)
+//unshift method add new element in first 
