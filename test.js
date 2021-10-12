@@ -6,4 +6,4 @@ function digital_root(n){
     console.log(a)
 }
 digital_root(19)
-console.log("now")
+console.log("nowhhhr")
